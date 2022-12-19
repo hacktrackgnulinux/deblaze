@@ -34,7 +34,9 @@ import urllib
 import os, subprocess
 import StringIO
 import base64
+"""
 import Image
+"""
 import datetime
 
 '''
